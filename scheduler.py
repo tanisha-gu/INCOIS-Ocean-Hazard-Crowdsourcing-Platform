@@ -1,4 +1,5 @@
 """
+here all data with clear code 
 Background job scheduler using APScheduler.
 Jobs:
   - Every 15 min: fetch & analyse social media posts
